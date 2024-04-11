@@ -1,6 +1,9 @@
 # Predator
 
-Based on predator and prey using echolocation - this generative artwork uses p5.js to endlessly progress the piece's story. The final result of this became the source (predator) chasing the prey using echolocation, like a game of cat and mouse.  
+### **Built with [p5.js](https://p5js.org/)**
+
+Based on predator and prey using echolocation - this generative artwork endlessly progresses the piece's story, with the final result of this became the source (predator) chasing the prey using echolocation, like a game of cat and mouse.  
+
 
 ## Formal Qualities
 At the beginning, the predator is closely resembling the colour of the background (the ocean), so it’s lurking and hard to notice unless you look closely. The prey is a bright colour, to show the noticeability of the naive prey. There are two audios incorporated - one where the ‘Jaws’ theme song plays when the boolean variable ‘isChasing’ is active, and the other audio being from the movie ‘Psycho’ once the predator catches the prey. As the predator catches prey, it increases in size and becomes a brighter colour gradually, indicating that as it eats more, it’s easier to spot out.
