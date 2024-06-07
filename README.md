@@ -5,6 +5,7 @@
 Based on predator and prey using echolocation - this generative artwork endlessly progresses the piece's story, with the final result of this became the source (predator) chasing the prey using echolocation, like a game of cat and mouse.  
 
 ! [Image](image.png)
+<img src="https://github.com/lamvpham/lamvpham/blob/main/image.png?raw=true" width="225" title="me" alt="me">
 
 
 ## Formal Qualities
